@@ -1,4 +1,4 @@
-near-blank-project
+Chess Club Project
 ==================
 
 This app was initialized with [create-near-app]
